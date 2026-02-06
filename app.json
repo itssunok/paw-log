@@ -1,0 +1,1 @@
+{"expo": {"name": "paw-log", "slug": "paw-log", "version": "1.0.0", "privacy": "public", "sdkVersion": "48.0.0", "platforms": ["ios", "android"], "ios": {"supportsTablet": true}, "android": {"adaptiveIcon": {"foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#FFFFFF"}}, "web": {"favicon": "./assets/favicon.png"}}}
